@@ -33,18 +33,18 @@ Here’s a summary of the best-performing models:
 
 ## 🧪 Project Structure
 
-credit-or-regret/
-├── notebook/
-│ └── Final_Notebook.ipynb
-├── report/
-│ └── Report.pdf
-├── presentation/
-│ └── Slides.pdf
-├── data/
-│ └── (Kaggle link below)
-├── src/
-│ └── (optional scripts)
-└── README.md
+**Project Structure**
+📂 credit-or-regret  
+├── 📁 notebook  
+│   └── 📄 Final_Notebook_V3.ipynb  
+├── 📁 report  
+│   └── 📄 Naik_Naik_Report.pdf  
+├── 📁 presentation  
+│   └── 📄Loan_Default_Prediction.pptx
+├── 📁 data  
+│   └── 🔗 (link to dataset below)  
+└── 📄 README.md
+
 
 ---
 
