@@ -37,23 +37,12 @@ Here’s a summary of the best-performing models:
 ├── 📁 notebook  
 │   └── 📄 [Final_Notebook_V3.ipynb](https://github.com/DhaivatN/credit-or-regret/blob/main/notebook/Final_Notebook_V3.ipynb)  
 ├── 📁 report  
-│   └── 📄 Naik_Naik_Report.pdf[Final_Report.pdf](https://github.com/DhaivatN/credit-or-regret/blob/main/report/Final_Report.pdf)  
+│   └── 📄 [Final_Report.pdf](https://github.com/DhaivatN/credit-or-regret/blob/main/report/Final_Report.pdf)  
 ├── 📁 presentation  
-│   └── 📄 Naik_Naik_Slides.pdf[Loan_Default_Prediction.pptx](https://github.com/DhaivatN/credit-or-regret/blob/main/presentation/Loan_Default_Prediction.pptx)  
+│   └── 📄 [Loan_Default_Prediction.pptx](https://github.com/DhaivatN/credit-or-regret/blob/main/Slides/Loan_Default_Prediction.pptx)  
 ├── 📁 data  
-│   └── 🔗 (link to dataset below)[Kaggle Dataset – Lending Club (accepted & rejected)](https://www.kaggle.com/datasets/wordsforthewise/lending-club)   
+│   └── 🔗 (link to dataset below)   
 └── 📄 README.md
-
-
-
-credit-or-regret/
-├── 
-├── 
-├── [Loan_Default_Prediction.pptx](https://github.com/DhaivatN/credit-or-regret/blob/main/presentation/Loan_Default_Prediction.pptx)
-├── [README.md](https://github.com/DhaivatN/credit-or-regret/blob/main/README.md)
-└── 📁 data
-     └── [Kaggle Dataset – Lending Club (accepted & rejected)](https://www.kaggle.com/datasets/wordsforthewise/lending-club)
-
 
 ---
 
