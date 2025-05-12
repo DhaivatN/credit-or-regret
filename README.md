@@ -25,14 +25,7 @@ Loan defaults represent a significant risk for financial institutions. Our goal 
 
 Here’s a summary of the best-performing models:
 
-| Model              | Accuracy | F1 Score | AUC-ROC |
-|-------------------|----------|----------|---------|
-| XGBoost            | 0.90     | 0.90     | 0.916   |
-| Random Forest      | 0.90     | 0.90     | 0.915   |
-| CatBoost           | 0.90     | 0.90     | 0.914   |
-| Logistic Regression| 0.90     | 0.89     | 0.911   |
-
-![Model Performance Table](assets/model_comparison.png)
+![Model Comparison](Model_Comparison.png)
 
 > 📌 Logistic Regression performed surprisingly well, rivaling tree-based models thanks to clean linear features like FICO and loan grade.
 
