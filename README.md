@@ -40,10 +40,11 @@ Here’s a summary of the best-performing models:
 │   └── 📄 [Final_Report.pdf](https://github.com/DhaivatN/credit-or-regret/blob/main/report/Final_Report.pdf)  
 ├── 📁 presentation  
 │   └── 📄 [Loan_Default_Prediction.pptx](https://github.com/DhaivatN/credit-or-regret/blob/main/Loan_Default_Prediction.pptx)  
+├── 📁 src  
+│   └── 📄 [preprocessing_clean.ipynb](https://github.com/DhaivatN/credit-or-regret/blob/main/src/preprocessing_clean.ipynb)  
 ├── 📁 data  
 │   └── 🔗 [LendingClub Dataset (Kaggle)](https://www.kaggle.com/datasets/wordsforthewise/lending-club)  
 └── 📄 [README.md](https://github.com/DhaivatN/credit-or-regret/blob/main/README.md)
-
 
 ---
 
