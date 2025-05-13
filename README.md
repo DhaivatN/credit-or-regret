@@ -35,16 +35,18 @@ Here’s a summary of the best-performing models:
 
 📂 credit-or-regret  
 ├── 📁 notebook  
-│   └── 📄 [Final_Notebook_V3.ipynb](https://github.com/DhaivatN/credit-or-regret/blob/main/notebook/Final_Notebook_V3.ipynb)  
+│   └── 📄 Final_Notebook_V3.ipynb  
 ├── 📁 report  
-│   └── 📄 [Final_Report.pdf](https://github.com/DhaivatN/credit-or-regret/blob/main/report/Final_Report.pdf)  
+│   └── 📄 Final_Report.pdf  
 ├── 📁 presentation  
-│   └── 📄 [Loan_Default_Prediction.pptx](https://github.com/DhaivatN/credit-or-regret/blob/main/Loan_Default_Prediction.pptx)  
+│   └── 📄 Loan_Default_Prediction.pptx  
 ├── 📁 src  
-│   └── 📄 [preprocessing_clean.ipynb](https://github.com/DhaivatN/credit-or-regret/blob/main/src/preprocessing_clean.ipynb)  
+│   ├── 📄 preprocessing_clean.ipynb  
+│   └── 📄 preprocessing.py  
 ├── 📁 data  
-│   └── 🔗 [LendingClub Dataset (Kaggle)](https://www.kaggle.com/datasets/wordsforthewise/lending-club)  
-└── 📄 [README.md](https://github.com/DhaivatN/credit-or-regret/blob/main/README.md)
+│   └── 🔗 LendingClub Dataset (Kaggle)  
+└── 📄 README.md
+
 
 ---
 
